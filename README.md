@@ -21,9 +21,9 @@ Dashboard interativo para visualização de relatórios de desempenho e eficiên
 ## 📊 Relatórios Disponíveis
 
 - Controle Diário de Pedidos
-- Gestão de Validade
-- Produtividade - BA (Bahia)
-- OTIF - BA (On Time In Full - Bahia)
+- Produtividade - SE (Sergipe)
+- Produção do dia
+
 
 
 ## 🛠️ Tecnologias Utilizadas
