@@ -11,7 +11,7 @@ function initializeAuth() {
     const errorMessage = document.getElementById('errorMessage');
     
     // === DEFINA A SENHA AQUI ===
-    const CORRECT_PASSWORD = "PCEditora25"; // Altere para a senha desejada
+    const CORRECT_PASSWORD = "Sergipe@26"; // Altere para a senha desejada
     
     // Verificar se já está autenticado (usando localStorage que persiste)
     const isAuthenticated = localStorage.getItem('bi_authenticated') === 'true';
