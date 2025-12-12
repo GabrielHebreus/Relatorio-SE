@@ -23,6 +23,7 @@ Dashboard interativo para visualização de relatórios de desempenho e eficiên
 - Controle Diário de Pedidos
 - Produtividade - SE (Sergipe)
 - Produção do dia
+- Produtividade - SE TV (Sergipe)
 
 
 
